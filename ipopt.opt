@@ -1,0 +1,9 @@
+max_iter 30000
+#mehrotra_algorithm no
+mehrotra_algorithm yes
+
+mu_strategy adaptive
+#mu_strategy monotone
+tol 1e-7
+constr_viol_tol 1e-7
+acceptable_constr_viol_tol 1e-7

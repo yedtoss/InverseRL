@@ -1,0 +1,14 @@
+beta_inv 3000
+digits 53
+xl_bound -3
+xh_bound 3
+n_bfgs_corr 200
+max_iterations 5000
+gr_epsilon 0
+
+f_epsilon  1e-7
+
+step_min_step 1e-100
+step_max_step 1e+100
+linesearch_type 2
+max_linesearch 60
